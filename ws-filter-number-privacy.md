@@ -1,10 +1,10 @@
-# WhatsApp Number Filter 隐私政策
+# whatsapp筛号 隐私政策
 
 最后更新：2026-06-09
 
 ## 一、概述
 
-WhatsApp Number Filter 是一个 Chrome 扩展，用于帮助企业用户在 WhatsApp Web 中批量筛查号码，并判断号码是否看起来已注册 WhatsApp。
+whatsapp筛号 是一个 Chrome 扩展，用于帮助企业用户在 WhatsApp Web 中批量筛查号码，并判断号码是否看起来已注册 WhatsApp。
 
 ## 二、我们会处理哪些数据
 
